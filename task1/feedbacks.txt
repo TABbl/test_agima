@@ -1,0 +1,8 @@
+Имя: Dima 
+ Почта: example@yandex.ru 
+ Оценка: 2 
+ Отзыв: norm 
+Имя: Sasha 
+ Почта: example@yandex.ru 
+ Оценка: 5 
+ Отзыв: cool 
