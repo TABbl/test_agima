@@ -10,7 +10,7 @@ function paycheck(array $cart){
     $scnDiscount = count($cart)>3;
 
     foreach ($cart as $product){
-        if($product['price'] > 1000){
+        if(!$frsDiscount and $product['price'] > 1000){
             $frsDiscount = true;
         }
         $finalPrice += $product['price'];
